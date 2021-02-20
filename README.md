@@ -1,2 +1,6 @@
 # hello-world
-Just a draft repository
+
+Hi humans!
+
+This is my first commit change.
+
